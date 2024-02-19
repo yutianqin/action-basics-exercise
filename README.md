@@ -11,6 +11,8 @@
 *   [🔽 Docker Compose](#docker-compose)
 
 
+# Important URLs
+
 🚀 Quick Start Guide
 --------------------
 
@@ -70,7 +72,6 @@ Ensure to run the services in the specified order for proper inter-service commu
 
 7.  **S3 Doc Service**
     
-# Important URLs
 
 ### 🔍 Testing the Services
 
