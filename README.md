@@ -118,7 +118,6 @@ Ensure to run the services in the specified order for proper inter-service commu
 
 
 <a name="important-urls"></a>
-<br>
 
 🔗 Important URLs
 -----------------
